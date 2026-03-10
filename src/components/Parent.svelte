@@ -11,4 +11,4 @@
 <Counter />
 <Bindings />
 <Profile bind:username={name} />
-<DateLabel date={new Date(2026,3,9)} />
+<DateLabel date={new Date(2026,3,9)} locale='cl-CL' />
